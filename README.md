@@ -6,7 +6,7 @@
 
 - 🌱 Eu estou aprendendo a programar recentemente JavaScript 
 
-
+- 👾 Meu email de contato é @lucas.domingues.alves@escola.pr.gov.br
 
 
 <!---
